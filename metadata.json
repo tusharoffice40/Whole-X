@@ -1,0 +1,7 @@
+{
+  "name": "WholeX - B2B Wholesale Marketplace",
+  "description": "A high-end B2B platform connecting wholesalers with retailers for seamless bulk purchasing, inventory management, and AI-powered business insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
